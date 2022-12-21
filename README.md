@@ -1,3 +1,3 @@
 # Blueberry-Spoofer-Leak
-Public base with ass protection. <br>
-so ass renox could crack it LOL <br>
+Public spoofer with ass protection. <br>
+So ass it could be yully spoofer LOL
