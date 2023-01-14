@@ -1,3 +1,4 @@
 # Blueberry-Spoofer-Leak
-Public spoofer with ass protection. <br>
-So ass it could be yully spoofer LOL
+**Open Source C++ HWID Spoofer** <br>
+Public spoofer with Sub-Optimal Protection <br>
+Using Multipy Spoofing Methods to Achieve a Permanent Spoof.
